@@ -1,6 +1,6 @@
 # Abhishek Bhardwaj - Web Developer Portfolio
 
-Welcome to the personal portfolio website of Abhishek Bhardwaj, a passionate web developer with expertise in creating dynamic and responsive websites. This project showcases Abhishek's skills, experience, and social media links, all wrapped up in a visually appealing dark theme with interactive elements.
+Welcome to my personal portfolio website , I am a passionate web developer with expertise in creating dynamic and responsive websites. This project showcases my skills, experience, and social media links, all wrapped up in a visually appealing dark theme with interactive elements.
 
 ## Table of Contents
 
